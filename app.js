@@ -50,8 +50,8 @@ let person ={
     age:27
 
 }
-console.log(person.firstName);
-console.log(person.lastName);
+console.log(person.firstname);
+console.log(person.lastname);
 console.log(person.age);
 console.log(Object.keys(person));
 console.log(Object.values(person));
